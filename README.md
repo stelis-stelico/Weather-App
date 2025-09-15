@@ -1,0 +1,1 @@
+This is a Weather App. It takes in an input which is a city name and then uses a Weather API to get details of the city weather.
